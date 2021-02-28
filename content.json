@@ -1,1 +1,21 @@
-{}
+{
+  "custom-field": "{   \":name\": \"Example\",   \"exampleObject\": {     \"exampleField1\": {\":type\": \"line\"},     \"exampleField2\": {\":type\": \"text\"}   } }",
+  "custom-object": {
+    "custom-line": "{   \":name\": \"Example\",   \"exampleObject\": {     \"exampleField1\": {\":type\": \"line\"},     \"exampleField2\": {\":type\": \"text\"}   } }"
+  },
+  "custom-list": [
+    {},
+    {},
+    {
+      "custom-list-item": "jkl"
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ]
+}
